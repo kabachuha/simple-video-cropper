@@ -2,6 +2,8 @@
 
 Simple Video Cropper is lightweight python app designed to process small-scale video dataset items, for example those expected by [diffusion-pipe](https://github.com/tdrussell/diffusion-pipe).
 
+<img width="1470" height="977" alt="Снимок экрана 2025-11-21 232507" src="https://github.com/user-attachments/assets/a3b08e84-cf7b-46b1-bf59-f25e6fd2d28c" />
+
 ## Usage
 
 You can use the program to make spatio-temporal crops of videos.
